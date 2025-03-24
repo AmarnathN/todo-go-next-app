@@ -26,5 +26,16 @@ A full-stack todo application built with Go backend and Next.js frontend.
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/AmarnathN/todo-go-next-app.git
 cd todo-go-next-app
+```
+
+2. Start the application using Docker Compose:
+
+```bash
+docker-compose up --build
+ ```
+
+3. Access the application:
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:8080
