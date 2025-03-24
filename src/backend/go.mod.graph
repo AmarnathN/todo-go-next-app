@@ -1,0 +1,626 @@
+{
+	"Path": "todo-app",
+	"Main": true,
+	"Dir": "/Users/vayunavuluri/vayugit/experiment/todo-go-next-app/src/backend",
+	"GoMod": "/Users/vayunavuluri/vayugit/experiment/todo-go-next-app/src/backend/go.mod",
+	"GoVersion": "1.21"
+}
+{
+	"Path": "github.com/bytedance/sonic",
+	"Version": "v1.9.1",
+	"Time": "2023-05-29T03:16:36Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/bytedance/sonic@v1.9.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/bytedance/sonic/@v/v1.9.1.mod",
+	"GoVersion": "1.15"
+}
+{
+	"Path": "github.com/chenzhuoyu/base64x",
+	"Version": "v0.0.0-20221115062448-fe3a3abad311",
+	"Time": "2022-11-15T06:24:48Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/chenzhuoyu/base64x/@v/v0.0.0-20221115062448-fe3a3abad311.mod",
+	"GoVersion": "1.15"
+}
+{
+	"Path": "github.com/creack/pty",
+	"Version": "v1.1.9",
+	"Time": "2019-09-25T15:36:33Z",
+	"Indirect": true,
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/creack/pty/@v/v1.1.9.mod",
+	"GoVersion": "1.13"
+}
+{
+	"Path": "github.com/davecgh/go-spew",
+	"Version": "v1.1.1",
+	"Time": "2018-02-21T23:26:28Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/davecgh/go-spew@v1.1.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/davecgh/go-spew/@v/v1.1.1.mod"
+}
+{
+	"Path": "github.com/gabriel-vasile/mimetype",
+	"Version": "v1.4.2",
+	"Time": "2023-03-08T07:23:01Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/gabriel-vasile/mimetype@v1.4.2",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/gabriel-vasile/mimetype/@v/v1.4.2.mod",
+	"GoVersion": "1.20"
+}
+{
+	"Path": "github.com/gin-contrib/sse",
+	"Version": "v0.1.0",
+	"Time": "2019-06-02T15:02:53Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/gin-contrib/sse@v0.1.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/gin-contrib/sse/@v/v0.1.0.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/gin-gonic/gin",
+	"Version": "v1.9.1",
+	"Time": "2023-06-01T02:26:20Z",
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/gin-gonic/gin@v1.9.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/gin-gonic/gin/@v/v1.9.1.mod",
+	"GoVersion": "1.20"
+}
+{
+	"Path": "github.com/go-playground/assert/v2",
+	"Version": "v2.2.0",
+	"Time": "2022-09-06T03:32:22Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/go-playground/assert/v2@v2.2.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/go-playground/assert/v2/@v/v2.2.0.mod",
+	"GoVersion": "1.13"
+}
+{
+	"Path": "github.com/go-playground/locales",
+	"Version": "v0.14.1",
+	"Time": "2023-01-05T16:04:36Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/go-playground/locales@v0.14.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/go-playground/locales/@v/v0.14.1.mod",
+	"GoVersion": "1.17"
+}
+{
+	"Path": "github.com/go-playground/universal-translator",
+	"Version": "v0.18.1",
+	"Time": "2023-01-30T04:27:26Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/go-playground/universal-translator@v0.18.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/go-playground/universal-translator/@v/v0.18.1.mod",
+	"GoVersion": "1.18"
+}
+{
+	"Path": "github.com/go-playground/validator/v10",
+	"Version": "v10.14.0",
+	"Time": "2023-05-21T14:32:07Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/go-playground/validator/v10@v10.14.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/go-playground/validator/v10/@v/v10.14.0.mod",
+	"GoVersion": "1.18"
+}
+{
+	"Path": "github.com/goccy/go-json",
+	"Version": "v0.10.2",
+	"Time": "2023-03-19T20:01:20Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/goccy/go-json@v0.10.2",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/goccy/go-json/@v/v0.10.2.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/golang/protobuf",
+	"Version": "v1.5.0",
+	"Time": "2021-03-18T00:15:31Z",
+	"Indirect": true,
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/golang/protobuf/@v/v1.5.0.mod",
+	"GoVersion": "1.9"
+}
+{
+	"Path": "github.com/google/go-cmp",
+	"Version": "v0.5.5",
+	"Time": "2021-03-03T20:48:37Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/google/go-cmp@v0.5.5",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/google/go-cmp/@v/v0.5.5.mod",
+	"GoVersion": "1.8"
+}
+{
+	"Path": "github.com/google/gofuzz",
+	"Version": "v1.0.0",
+	"Time": "2019-04-08T17:44:45Z",
+	"Indirect": true,
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/google/gofuzz/@v/v1.0.0.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/jackc/pgpassfile",
+	"Version": "v1.0.0",
+	"Time": "2019-03-30T16:09:02Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/jackc/pgpassfile@v1.0.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/jackc/pgpassfile/@v/v1.0.0.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/jackc/pgservicefile",
+	"Version": "v0.0.0-20221227161230-091c0ba34f0a",
+	"Time": "2022-12-27T16:12:30Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/jackc/pgservicefile@v0.0.0-20221227161230-091c0ba34f0a",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/jackc/pgservicefile/@v/v0.0.0-20221227161230-091c0ba34f0a.mod",
+	"GoVersion": "1.14"
+}
+{
+	"Path": "github.com/jackc/pgx/v5",
+	"Version": "v5.4.3",
+	"Time": "2023-08-05T13:36:48Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/jackc/pgx/v5@v5.4.3",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/jackc/pgx/v5/@v/v5.4.3.mod",
+	"GoVersion": "1.19"
+}
+{
+	"Path": "github.com/jackc/puddle/v2",
+	"Version": "v2.2.1",
+	"Time": "2023-07-15T15:02:06Z",
+	"Indirect": true
+}
+{
+	"Path": "github.com/jinzhu/inflection",
+	"Version": "v1.0.0",
+	"Time": "2019-06-03T04:28:36Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/jinzhu/inflection@v1.0.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/jinzhu/inflection/@v/v1.0.0.mod"
+}
+{
+	"Path": "github.com/jinzhu/now",
+	"Version": "v1.1.5",
+	"Time": "2022-03-17T06:16:25Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/jinzhu/now@v1.1.5",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/jinzhu/now/@v/v1.1.5.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/json-iterator/go",
+	"Version": "v1.1.12",
+	"Time": "2021-09-11T02:17:26Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/json-iterator/go@v1.1.12",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/json-iterator/go/@v/v1.1.12.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/klauspost/cpuid/v2",
+	"Version": "v2.2.4",
+	"Time": "2023-02-20T14:56:06Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/klauspost/cpuid/v2@v2.2.4",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/klauspost/cpuid/v2/@v/v2.2.4.mod",
+	"GoVersion": "1.15"
+}
+{
+	"Path": "github.com/kr/pretty",
+	"Version": "v0.3.0",
+	"Time": "2020-11-24T22:22:38Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/kr/pretty@v0.3.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/kr/pretty/@v/v0.3.0.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/kr/text",
+	"Version": "v0.2.0",
+	"Time": "2020-02-14T20:31:06Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/kr/text@v0.2.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/kr/text/@v/v0.2.0.mod"
+}
+{
+	"Path": "github.com/leodido/go-urn",
+	"Version": "v1.2.4",
+	"Time": "2023-04-30T01:21:16Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/leodido/go-urn@v1.2.4",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/leodido/go-urn/@v/v1.2.4.mod",
+	"GoVersion": "1.16"
+}
+{
+	"Path": "github.com/mattn/go-isatty",
+	"Version": "v0.0.20",
+	"Time": "2023-10-17T07:28:21Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/mattn/go-isatty@v0.0.20",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/mattn/go-isatty/@v/v0.0.20.mod",
+	"GoVersion": "1.15"
+}
+{
+	"Path": "github.com/modern-go/concurrent",
+	"Version": "v0.0.0-20180306012644-bacd9c7ef1dd",
+	"Time": "2018-03-06T01:26:44Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/modern-go/concurrent@v0.0.0-20180306012644-bacd9c7ef1dd",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/modern-go/concurrent/@v/v0.0.0-20180306012644-bacd9c7ef1dd.mod"
+}
+{
+	"Path": "github.com/modern-go/reflect2",
+	"Version": "v1.0.2",
+	"Time": "2021-09-11T02:10:30Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/modern-go/reflect2@v1.0.2",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/modern-go/reflect2/@v/v1.0.2.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/pelletier/go-toml/v2",
+	"Version": "v2.0.8",
+	"Time": "2023-05-23T22:22:22Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/pelletier/go-toml/v2@v2.0.8",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/pelletier/go-toml/v2/@v/v2.0.8.mod",
+	"GoVersion": "1.16"
+}
+{
+	"Path": "github.com/pmezard/go-difflib",
+	"Version": "v1.0.0",
+	"Time": "2016-01-10T10:55:54Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/pmezard/go-difflib@v1.0.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/pmezard/go-difflib/@v/v1.0.0.mod"
+}
+{
+	"Path": "github.com/rogpeppe/go-internal",
+	"Version": "v1.11.0",
+	"Time": "2023-05-24T17:50:51Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/rogpeppe/go-internal@v1.11.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/rogpeppe/go-internal/@v/v1.11.0.mod",
+	"GoVersion": "1.19"
+}
+{
+	"Path": "github.com/stretchr/objx",
+	"Version": "v0.5.0",
+	"Time": "2022-09-18T03:09:40Z",
+	"Indirect": true,
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/stretchr/objx/@v/v0.5.0.mod",
+	"GoVersion": "1.12"
+}
+{
+	"Path": "github.com/stretchr/testify",
+	"Version": "v1.8.3",
+	"Time": "2023-05-10T21:42:04Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/stretchr/testify@v1.8.3",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/stretchr/testify/@v/v1.8.3.mod",
+	"GoVersion": "1.20"
+}
+{
+	"Path": "github.com/twitchyliquid64/golang-asm",
+	"Version": "v0.15.1",
+	"Time": "2021-01-12T00:43:21Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/twitchyliquid64/golang-asm@v0.15.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/twitchyliquid64/golang-asm/@v/v0.15.1.mod",
+	"GoVersion": "1.13"
+}
+{
+	"Path": "github.com/ugorji/go/codec",
+	"Version": "v1.2.11",
+	"Time": "2023-03-08T16:23:33Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/github.com/ugorji/go/codec@v1.2.11",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/github.com/ugorji/go/codec/@v/v1.2.11.mod",
+	"GoVersion": "1.11"
+}
+{
+	"Path": "golang.org/x/arch",
+	"Version": "v0.3.0",
+	"Time": "2023-02-08T14:50:55Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/golang.org/x/arch@v0.3.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/golang.org/x/arch/@v/v0.3.0.mod",
+	"GoVersion": "1.17"
+}
+{
+	"Path": "golang.org/x/crypto",
+	"Version": "v0.14.0",
+	"Time": "2023-10-05T15:12:11Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/golang.org/x/crypto@v0.14.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/golang.org/x/crypto/@v/v0.14.0.mod",
+	"GoVersion": "1.17"
+}
+{
+	"Path": "golang.org/x/mod",
+	"Version": "v0.9.0",
+	"Time": "2023-02-27T21:59:11Z",
+	"Indirect": true
+}
+{
+	"Path": "golang.org/x/net",
+	"Version": "v0.10.0",
+	"Time": "2023-05-04T16:26:08Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/golang.org/x/net@v0.10.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/golang.org/x/net/@v/v0.10.0.mod",
+	"GoVersion": "1.17"
+}
+{
+	"Path": "golang.org/x/sync",
+	"Version": "v0.1.0",
+	"Time": "2022-09-29T20:41:14Z",
+	"Indirect": true
+}
+{
+	"Path": "golang.org/x/sys",
+	"Version": "v0.13.0",
+	"Time": "2023-09-28T17:55:56Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/golang.org/x/sys@v0.13.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/golang.org/x/sys/@v/v0.13.0.mod",
+	"GoVersion": "1.17"
+}
+{
+	"Path": "golang.org/x/term",
+	"Version": "v0.13.0",
+	"Time": "2023-10-05T14:06:51Z",
+	"Indirect": true
+}
+{
+	"Path": "golang.org/x/text",
+	"Version": "v0.13.0",
+	"Time": "2023-08-28T17:26:32Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/golang.org/x/text@v0.13.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/golang.org/x/text/@v/v0.13.0.mod",
+	"GoVersion": "1.17"
+}
+{
+	"Path": "golang.org/x/tools",
+	"Version": "v0.6.0",
+	"Time": "2023-02-08T22:43:44Z",
+	"Indirect": true
+}
+{
+	"Path": "golang.org/x/xerrors",
+	"Version": "v0.0.0-20191204190536-9bdfabe68543",
+	"Time": "2019-12-04T19:05:36Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/golang.org/x/xerrors@v0.0.0-20191204190536-9bdfabe68543",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/golang.org/x/xerrors/@v/v0.0.0-20191204190536-9bdfabe68543.mod",
+	"GoVersion": "1.11"
+}
+{
+	"Path": "google.golang.org/protobuf",
+	"Version": "v1.30.0",
+	"Time": "2023-03-16T08:32:54Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/google.golang.org/protobuf@v1.30.0",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/google.golang.org/protobuf/@v/v1.30.0.mod",
+	"GoVersion": "1.11"
+}
+{
+	"Path": "gopkg.in/check.v1",
+	"Version": "v1.0.0-20201130134442-10cb98267c6c",
+	"Time": "2020-11-30T13:44:42Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/gopkg.in/check.v1/@v/v1.0.0-20201130134442-10cb98267c6c.mod",
+	"GoVersion": "1.11"
+}
+{
+	"Path": "gopkg.in/yaml.v3",
+	"Version": "v3.0.1",
+	"Time": "2022-05-27T08:35:30Z",
+	"Indirect": true,
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/gopkg.in/yaml.v3@v3.0.1",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/gopkg.in/yaml.v3/@v/v3.0.1.mod"
+}
+{
+	"Path": "gorm.io/driver/postgres",
+	"Version": "v1.5.4",
+	"Time": "2023-10-26T03:57:47Z",
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/gorm.io/driver/postgres@v1.5.4",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/gorm.io/driver/postgres/@v/v1.5.4.mod",
+	"GoVersion": "1.18"
+}
+{
+	"Path": "gorm.io/gorm",
+	"Version": "v1.25.5",
+	"Time": "2023-10-10T07:03:34Z",
+	"Dir": "/Users/vayunavuluri/go/pkg/mod/gorm.io/gorm@v1.25.5",
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/gorm.io/gorm/@v/v1.25.5.mod",
+	"GoVersion": "1.18"
+}
+{
+	"Path": "rsc.io/pdf",
+	"Version": "v0.1.1",
+	"Time": "2018-04-11T19:01:10Z",
+	"Indirect": true,
+	"GoMod": "/Users/vayunavuluri/go/pkg/mod/cache/download/rsc.io/pdf/@v/v0.1.1.mod"
+}
+------------------------------------------------------
+todo-app github.com/bytedance/sonic@v1.9.1
+todo-app github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311
+todo-app github.com/gabriel-vasile/mimetype@v1.4.2
+todo-app github.com/gin-contrib/sse@v0.1.0
+todo-app github.com/gin-gonic/gin@v1.9.1
+todo-app github.com/go-playground/locales@v0.14.1
+todo-app github.com/go-playground/universal-translator@v0.18.1
+todo-app github.com/go-playground/validator/v10@v10.14.0
+todo-app github.com/goccy/go-json@v0.10.2
+todo-app github.com/jackc/pgpassfile@v1.0.0
+todo-app github.com/jackc/pgservicefile@v0.0.0-20221227161230-091c0ba34f0a
+todo-app github.com/jackc/pgx/v5@v5.4.3
+todo-app github.com/jinzhu/inflection@v1.0.0
+todo-app github.com/jinzhu/now@v1.1.5
+todo-app github.com/json-iterator/go@v1.1.12
+todo-app github.com/klauspost/cpuid/v2@v2.2.4
+todo-app github.com/kr/text@v0.2.0
+todo-app github.com/leodido/go-urn@v1.2.4
+todo-app github.com/mattn/go-isatty@v0.0.20
+todo-app github.com/modern-go/concurrent@v0.0.0-20180306012644-bacd9c7ef1dd
+todo-app github.com/modern-go/reflect2@v1.0.2
+todo-app github.com/pelletier/go-toml/v2@v2.0.8
+todo-app github.com/rogpeppe/go-internal@v1.11.0
+todo-app github.com/twitchyliquid64/golang-asm@v0.15.1
+todo-app github.com/ugorji/go/codec@v1.2.11
+todo-app go@1.21
+todo-app golang.org/x/arch@v0.3.0
+todo-app golang.org/x/crypto@v0.14.0
+todo-app golang.org/x/net@v0.10.0
+todo-app golang.org/x/sys@v0.13.0
+todo-app golang.org/x/text@v0.13.0
+todo-app google.golang.org/protobuf@v1.30.0
+todo-app gopkg.in/yaml.v3@v3.0.1
+todo-app gorm.io/driver/postgres@v1.5.4
+todo-app gorm.io/gorm@v1.25.5
+github.com/bytedance/sonic@v1.9.1 github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311
+github.com/bytedance/sonic@v1.9.1 github.com/davecgh/go-spew@v1.1.1
+github.com/bytedance/sonic@v1.9.1 github.com/klauspost/cpuid/v2@v2.0.9
+github.com/bytedance/sonic@v1.9.1 github.com/stretchr/testify@v1.8.1
+github.com/bytedance/sonic@v1.9.1 github.com/twitchyliquid64/golang-asm@v0.15.1
+github.com/bytedance/sonic@v1.9.1 golang.org/x/arch@v0.0.0-20210923205945-b76863e36670
+github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311 github.com/bytedance/sonic@v1.5.0
+github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311 github.com/davecgh/go-spew@v1.1.1
+github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311 github.com/klauspost/cpuid/v2@v2.0.9
+github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311 github.com/stretchr/testify@v1.8.1
+github.com/gabriel-vasile/mimetype@v1.4.2 golang.org/x/net@v0.8.0
+github.com/gin-contrib/sse@v0.1.0 github.com/stretchr/testify@v1.3.0
+github.com/gin-gonic/gin@v1.9.1 github.com/bytedance/sonic@v1.9.1
+github.com/gin-gonic/gin@v1.9.1 github.com/gin-contrib/sse@v0.1.0
+github.com/gin-gonic/gin@v1.9.1 github.com/go-playground/validator/v10@v10.14.0
+github.com/gin-gonic/gin@v1.9.1 github.com/goccy/go-json@v0.10.2
+github.com/gin-gonic/gin@v1.9.1 github.com/json-iterator/go@v1.1.12
+github.com/gin-gonic/gin@v1.9.1 github.com/mattn/go-isatty@v0.0.19
+github.com/gin-gonic/gin@v1.9.1 github.com/pelletier/go-toml/v2@v2.0.8
+github.com/gin-gonic/gin@v1.9.1 github.com/stretchr/testify@v1.8.3
+github.com/gin-gonic/gin@v1.9.1 github.com/ugorji/go/codec@v1.2.11
+github.com/gin-gonic/gin@v1.9.1 golang.org/x/net@v0.10.0
+github.com/gin-gonic/gin@v1.9.1 google.golang.org/protobuf@v1.30.0
+github.com/gin-gonic/gin@v1.9.1 gopkg.in/yaml.v3@v3.0.1
+github.com/gin-gonic/gin@v1.9.1 github.com/chenzhuoyu/base64x@v0.0.0-20221115062448-fe3a3abad311
+github.com/gin-gonic/gin@v1.9.1 github.com/davecgh/go-spew@v1.1.1
+github.com/gin-gonic/gin@v1.9.1 github.com/gabriel-vasile/mimetype@v1.4.2
+github.com/gin-gonic/gin@v1.9.1 github.com/go-playground/locales@v0.14.1
+github.com/gin-gonic/gin@v1.9.1 github.com/go-playground/universal-translator@v0.18.1
+github.com/gin-gonic/gin@v1.9.1 github.com/klauspost/cpuid/v2@v2.2.4
+github.com/gin-gonic/gin@v1.9.1 github.com/leodido/go-urn@v1.2.4
+github.com/gin-gonic/gin@v1.9.1 github.com/modern-go/concurrent@v0.0.0-20180306012644-bacd9c7ef1dd
+github.com/gin-gonic/gin@v1.9.1 github.com/modern-go/reflect2@v1.0.2
+github.com/gin-gonic/gin@v1.9.1 github.com/pmezard/go-difflib@v1.0.0
+github.com/gin-gonic/gin@v1.9.1 github.com/twitchyliquid64/golang-asm@v0.15.1
+github.com/gin-gonic/gin@v1.9.1 golang.org/x/arch@v0.3.0
+github.com/gin-gonic/gin@v1.9.1 golang.org/x/crypto@v0.9.0
+github.com/gin-gonic/gin@v1.9.1 golang.org/x/sys@v0.8.0
+github.com/gin-gonic/gin@v1.9.1 golang.org/x/text@v0.9.0
+github.com/go-playground/locales@v0.14.1 golang.org/x/text@v0.3.8
+github.com/go-playground/universal-translator@v0.18.1 github.com/go-playground/locales@v0.14.1
+github.com/go-playground/validator/v10@v10.14.0 github.com/gabriel-vasile/mimetype@v1.4.2
+github.com/go-playground/validator/v10@v10.14.0 github.com/go-playground/assert/v2@v2.2.0
+github.com/go-playground/validator/v10@v10.14.0 github.com/go-playground/locales@v0.14.1
+github.com/go-playground/validator/v10@v10.14.0 github.com/go-playground/universal-translator@v0.18.1
+github.com/go-playground/validator/v10@v10.14.0 github.com/leodido/go-urn@v1.2.4
+github.com/go-playground/validator/v10@v10.14.0 golang.org/x/crypto@v0.7.0
+github.com/go-playground/validator/v10@v10.14.0 golang.org/x/text@v0.8.0
+github.com/go-playground/validator/v10@v10.14.0 golang.org/x/net@v0.8.0
+github.com/go-playground/validator/v10@v10.14.0 golang.org/x/sys@v0.6.0
+github.com/jackc/pgpassfile@v1.0.0 github.com/stretchr/testify@v1.3.0
+github.com/jackc/pgservicefile@v0.0.0-20221227161230-091c0ba34f0a github.com/stretchr/testify@v1.7.0
+github.com/jackc/pgx/v5@v5.4.3 github.com/jackc/pgpassfile@v1.0.0
+github.com/jackc/pgx/v5@v5.4.3 github.com/jackc/pgservicefile@v0.0.0-20221227161230-091c0ba34f0a
+github.com/jackc/pgx/v5@v5.4.3 github.com/jackc/puddle/v2@v2.2.1
+github.com/jackc/pgx/v5@v5.4.3 github.com/stretchr/testify@v1.8.1
+github.com/jackc/pgx/v5@v5.4.3 golang.org/x/crypto@v0.9.0
+github.com/jackc/pgx/v5@v5.4.3 golang.org/x/text@v0.9.0
+github.com/jackc/pgx/v5@v5.4.3 github.com/davecgh/go-spew@v1.1.1
+github.com/jackc/pgx/v5@v5.4.3 github.com/kr/pretty@v0.3.0
+github.com/jackc/pgx/v5@v5.4.3 github.com/pmezard/go-difflib@v1.0.0
+github.com/jackc/pgx/v5@v5.4.3 golang.org/x/sync@v0.1.0
+github.com/jackc/pgx/v5@v5.4.3 gopkg.in/check.v1@v1.0.0-20201130134442-10cb98267c6c
+github.com/jackc/pgx/v5@v5.4.3 gopkg.in/yaml.v3@v3.0.1
+github.com/json-iterator/go@v1.1.12 github.com/davecgh/go-spew@v1.1.1
+github.com/json-iterator/go@v1.1.12 github.com/google/gofuzz@v1.0.0
+github.com/json-iterator/go@v1.1.12 github.com/modern-go/concurrent@v0.0.0-20180228061459-e0a39a4cb421
+github.com/json-iterator/go@v1.1.12 github.com/modern-go/reflect2@v1.0.2
+github.com/json-iterator/go@v1.1.12 github.com/stretchr/testify@v1.3.0
+github.com/klauspost/cpuid/v2@v2.2.4 golang.org/x/sys@v0.0.0-20220704084225-05e143d24a9e
+github.com/kr/text@v0.2.0 github.com/creack/pty@v1.1.9
+github.com/leodido/go-urn@v1.2.4 github.com/stretchr/testify@v1.8.2
+github.com/mattn/go-isatty@v0.0.20 golang.org/x/sys@v0.6.0
+github.com/pelletier/go-toml/v2@v2.0.8 github.com/stretchr/testify@v1.8.3
+github.com/rogpeppe/go-internal@v1.11.0 golang.org/x/mod@v0.9.0
+github.com/rogpeppe/go-internal@v1.11.0 golang.org/x/sys@v0.0.0-20220722155257-8c9f86f7a55f
+github.com/rogpeppe/go-internal@v1.11.0 golang.org/x/tools@v0.1.12
+go@1.21 toolchain@go1.21
+golang.org/x/arch@v0.3.0 rsc.io/pdf@v0.1.1
+golang.org/x/crypto@v0.14.0 golang.org/x/net@v0.10.0
+golang.org/x/crypto@v0.14.0 golang.org/x/sys@v0.13.0
+golang.org/x/crypto@v0.14.0 golang.org/x/term@v0.13.0
+golang.org/x/crypto@v0.14.0 golang.org/x/text@v0.13.0
+golang.org/x/net@v0.10.0 golang.org/x/sys@v0.8.0
+golang.org/x/net@v0.10.0 golang.org/x/term@v0.8.0
+golang.org/x/net@v0.10.0 golang.org/x/text@v0.9.0
+golang.org/x/text@v0.13.0 golang.org/x/tools@v0.6.0
+golang.org/x/text@v0.13.0 golang.org/x/mod@v0.8.0
+golang.org/x/text@v0.13.0 golang.org/x/sys@v0.5.0
+google.golang.org/protobuf@v1.30.0 github.com/golang/protobuf@v1.5.0
+google.golang.org/protobuf@v1.30.0 github.com/google/go-cmp@v0.5.5
+gopkg.in/yaml.v3@v3.0.1 gopkg.in/check.v1@v0.0.0-20161208181325-20d25e280405
+gorm.io/driver/postgres@v1.5.4 github.com/jackc/pgx/v5@v5.4.3
+gorm.io/driver/postgres@v1.5.4 gorm.io/gorm@v1.25.5
+gorm.io/driver/postgres@v1.5.4 github.com/jackc/pgpassfile@v1.0.0
+gorm.io/driver/postgres@v1.5.4 github.com/jackc/pgservicefile@v0.0.0-20221227161230-091c0ba34f0a
+gorm.io/driver/postgres@v1.5.4 github.com/jinzhu/inflection@v1.0.0
+gorm.io/driver/postgres@v1.5.4 github.com/jinzhu/now@v1.1.5
+gorm.io/driver/postgres@v1.5.4 golang.org/x/crypto@v0.14.0
+gorm.io/driver/postgres@v1.5.4 golang.org/x/text@v0.13.0
+gorm.io/gorm@v1.25.5 github.com/jinzhu/inflection@v1.0.0
+gorm.io/gorm@v1.25.5 github.com/jinzhu/now@v1.1.5
+github.com/stretchr/testify@v1.8.1 github.com/davecgh/go-spew@v1.1.1
+github.com/stretchr/testify@v1.8.1 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.8.1 github.com/stretchr/objx@v0.5.0
+github.com/stretchr/testify@v1.8.1 gopkg.in/yaml.v3@v3.0.1
+golang.org/x/arch@v0.0.0-20210923205945-b76863e36670 rsc.io/pdf@v0.1.1
+github.com/bytedance/sonic@v1.5.0 github.com/chenzhuoyu/base64x@v0.0.0-20211019084208-fb5309c8db06
+github.com/bytedance/sonic@v1.5.0 github.com/davecgh/go-spew@v1.1.1
+github.com/bytedance/sonic@v1.5.0 github.com/klauspost/cpuid/v2@v2.0.9
+github.com/bytedance/sonic@v1.5.0 github.com/stretchr/testify@v1.7.0
+github.com/bytedance/sonic@v1.5.0 github.com/twitchyliquid64/golang-asm@v0.15.1
+github.com/bytedance/sonic@v1.5.0 golang.org/x/arch@v0.0.0-20210923205945-b76863e36670
+github.com/stretchr/testify@v1.3.0 github.com/davecgh/go-spew@v1.1.0
+github.com/stretchr/testify@v1.3.0 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.3.0 github.com/stretchr/objx@v0.1.0
+github.com/stretchr/testify@v1.8.3 github.com/davecgh/go-spew@v1.1.1
+github.com/stretchr/testify@v1.8.3 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.8.3 github.com/stretchr/objx@v0.5.0
+github.com/stretchr/testify@v1.8.3 gopkg.in/yaml.v3@v3.0.1
+github.com/stretchr/testify@v1.7.0 github.com/davecgh/go-spew@v1.1.0
+github.com/stretchr/testify@v1.7.0 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.7.0 github.com/stretchr/objx@v0.1.0
+github.com/stretchr/testify@v1.7.0 gopkg.in/yaml.v3@v3.0.0-20200313102051-9f266ea9e77c
+github.com/stretchr/testify@v1.8.2 github.com/davecgh/go-spew@v1.1.1
+github.com/stretchr/testify@v1.8.2 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.8.2 github.com/stretchr/objx@v0.5.0
+github.com/stretchr/testify@v1.8.2 gopkg.in/yaml.v3@v3.0.1
+github.com/golang/protobuf@v1.5.0 github.com/google/go-cmp@v0.5.5
+github.com/golang/protobuf@v1.5.0 google.golang.org/protobuf@v1.26.0-rc.1
+github.com/google/go-cmp@v0.5.5 golang.org/x/xerrors@v0.0.0-20191204190536-9bdfabe68543
+github.com/stretchr/objx@v0.5.0 github.com/stretchr/testify@v1.8.0
+github.com/chenzhuoyu/base64x@v0.0.0-20211019084208-fb5309c8db06 github.com/klauspost/cpuid/v2@v2.0.9
+gopkg.in/yaml.v3@v3.0.0-20200313102051-9f266ea9e77c gopkg.in/check.v1@v0.0.0-20161208181325-20d25e280405
+google.golang.org/protobuf@v1.26.0-rc.1 github.com/google/go-cmp@v0.5.5
+github.com/stretchr/testify@v1.8.0 github.com/davecgh/go-spew@v1.1.1
+github.com/stretchr/testify@v1.8.0 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.8.0 github.com/stretchr/objx@v0.4.0
+github.com/stretchr/testify@v1.8.0 gopkg.in/yaml.v3@v3.0.1
+github.com/stretchr/objx@v0.4.0 github.com/davecgh/go-spew@v1.1.1
+github.com/stretchr/objx@v0.4.0 github.com/stretchr/testify@v1.7.1
+github.com/stretchr/testify@v1.7.1 github.com/davecgh/go-spew@v1.1.0
+github.com/stretchr/testify@v1.7.1 github.com/pmezard/go-difflib@v1.0.0
+github.com/stretchr/testify@v1.7.1 github.com/stretchr/objx@v0.1.0
+github.com/stretchr/testify@v1.7.1 gopkg.in/yaml.v3@v3.0.0-20200313102051-9f266ea9e77c
